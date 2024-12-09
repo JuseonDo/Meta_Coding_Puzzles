@@ -35,12 +35,10 @@ This repository contains solutions to various puzzles featured on [Meta Careers]
 - **Stack Balancing II**
 
 ### **Level 4 Puzzles**
-- **Conveyor Belt Chaos (Correctness)**
+- **Conveyor Belt Chaos**
+- **Mathematical Art**
 
 ---
 
 ## **Pending Solutions**
 
-### **Level 4 Puzzles**
-- **Conveyor Belt Chaos (Efficiency)**
-- **Mathematical Patterns**
